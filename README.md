@@ -29,11 +29,8 @@
 ![Screenshot 2023-03-28 093916](https://user-images.githubusercontent.com/45715246/228256139-c457e2c5-6519-4d8b-b0be-680d7ad80d05.png)
 
 
-### AdaBoost Classifier
+### Easy Ensemble AdaBoost Classifier
 ![Mod18AdaBoost](https://user-images.githubusercontent.com/45715246/228256326-762b9927-4bd5-412a-8e0f-6c91376ea0db.png)
-
-
-
 
 
 
