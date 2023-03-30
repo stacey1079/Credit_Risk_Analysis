@@ -25,7 +25,6 @@ The purpose of this analysis was to use different techniques to train and and ev
 * The low-risk precision rate was 100% with the recall at only 44%.
 
 ### Combined Oversampling And Undersampling With SMOTEEN 
-![Mod18_Smoteen_1](https://user-images.githubusercontent.com/45715246/228255266-57abf434-60c6-4f31-aba0-b776658feb40.png)
 ![Mod18_Smoteen_2](https://user-images.githubusercontent.com/45715246/228255343-e4a17996-e551-4b30-83bf-012e188312dc.png)
 * The balanced accuracy score of this model was 65%.  Which is the best accuracy score of all models so far.
 * The high-risk precision rate was 1% with the recall being 74%.  This gave this model an F1 score of also 2%.
