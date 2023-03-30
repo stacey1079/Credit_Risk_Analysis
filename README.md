@@ -6,8 +6,6 @@ The purpose of this analysis was to use different techniques to train and and ev
 
 ## Results Deliverable 1
 
-![Screenshot 2023-03-29 224023](https://user-images.githubusercontent.com/45715246/228714298-3a2fe463-64a2-4dac-8573-10a7faf9455e.png)
-
 ### Random Oversampling Model:
 ![Mod18_Oversampling](https://user-images.githubusercontent.com/45715246/228252329-a1afa9e1-edfd-4fc2-b69a-17b25675420e.png)
 * The balanced accuracy rate of this model was 64%.
@@ -21,7 +19,6 @@ The purpose of this analysis was to use different techniques to train and and ev
 * The low-risk precision rate was 100% with a higher recall at 66%.
 
 ### Undersampling With ClusterCentroids:
-![Mod18_Undersampling_1](https://user-images.githubusercontent.com/45715246/228252762-8136df73-daab-42e0-994b-7d77717dd176.png)
 ![Mod18_Undersampling_2](https://user-images.githubusercontent.com/45715246/228252811-1655e021-7ef1-45e7-a82c-4be882e224aa.png)
 * The balanced accuracy score of this model was also 64%.
 * The high-risk precision rate was again 1% with the recall being 62%.  This gave this model a lower F1 score of 1%.
@@ -52,5 +49,5 @@ The purpose of this analysis was to use different techniques to train and and ev
 
 ## Summary
 
-I think it is very clear that the model I would trust most for precision accuracy is the combination EasyEnsembleAdaBoostClassifier.
+I think it is very clear that the model I would trust most for precision accuracy is the combination EasyEnsembleAdaBoostClassifier.  This model had the largest balanced accuracy score which was 93%.  The high-risk sensitivity was 92% with an F1 score of 16%.  The low-risk precision rate was 100% with a sensitivity at 94%.  For these reasons, this model would definitely be a model that could be trusted. 
 
